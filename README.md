@@ -4,8 +4,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Raghav</h1>
-<h3 align="center">virgin </h3>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+Engineer;Full+Stack+Enthusiast;Data+Science+Explorer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+Engineer;Full+Stack+Enthusiast;Data+Science+Explorer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"> </h3>
+<h1 align="center">virgin</h1>
+
 
 ---
 
