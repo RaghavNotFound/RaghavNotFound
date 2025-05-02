@@ -5,6 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Raghav</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+Engineer;Full+Stack+Enthusiast;Data+Science+Explorer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"> </h3>
+<h5 align="center">I'm **Raghav**, a passionate **AI/ML Engineer** and **Computer Science** student currently pursuing my B.Tech. I love experimenting with machine learning models, data analysis, and automation. I'm deeply fascinated by **data science**, **artificial intelligence**, and all things related to **tech innovations**.
+
+I aspire to actively contribute to open-source projects and am always looking for ways to push my knowledge forward. When not coding, you can find me solving problems on **LeetCode**, tinkering with new algorithms, or experimenting with new technologies.</h5>
 
 ---
 
