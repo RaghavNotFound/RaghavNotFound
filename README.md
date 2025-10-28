@@ -35,6 +35,7 @@ I aspire to actively contribute to open-source projects and am always looking fo
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-3776AB?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white" />
 </p>
 
 ---
